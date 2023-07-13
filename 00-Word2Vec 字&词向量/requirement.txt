@@ -1,0 +1,4 @@
+# pip install -r requirement.txt
+
+gensim==4.2.0
+jieba==0.42.1
