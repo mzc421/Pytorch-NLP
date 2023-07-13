@@ -34,6 +34,7 @@ Word2Vec
 
 # 博客地址
 [CSDN Word2Vec 训练字&词向量](https://blog.csdn.net/qq_48764574/article/details/126350812)
+
 [知乎 Word2Vec 训练字&词向量](https://zhuanlan.zhihu.com/p/642943733)
 
 # QQ交流群
