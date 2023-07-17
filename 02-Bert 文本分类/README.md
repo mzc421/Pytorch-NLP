@@ -26,9 +26,9 @@ Bert
 # Bert 模型结构与文本分类模型结构
 ![bert 模型结构](img/bert%20模型结构.jpg)   
 ![bert 文本分类模型](img/bert%20文本分类模型.jpg)    
-`Overall pre-training and fine-tuning procedures for BERT. Apart from output layers, the same architectures are used in both pre-training and fine-tuning. The same pre-trained model parameters are used to initialize
+`Overall pre-training and fine-tuning procedures for BERT. Apart from output layers, the same architectures are used in both pre-training and fine-tuning. The same pre-trained model parameters are used to initialize
 models for different down-stream tasks. During fine-tuning, all parameters are fine-tuned. [CLS] is a special
-symbol added in front of every input example, and [SEP] is a special separator token (e.g. separating questions/answers).`   
+symbol added in front of every input example, and [SEP] is a special separator token (e.g. separating questions/answers).`   
 
 `BERT的总体预训练和微调程序。除了输出层之外，在预训练和微调中使用相同的架构。相同的预训练模型参数用于初始化
 不同下游任务的模型。在微调期间，将微调所有参数。[CLS]是一个特殊的
