@@ -60,7 +60,9 @@ parser.add_argument("--class_num", type=int, default=10)
 parser.add_argument("--max_len", type=int, default=38)
 
 # 博客地址
-[CSDN](https://blog.csdn.net/qq_48764574/article/details/125757595)
+[CSDN TextCNN 文本分类](https://blog.csdn.net/qq_48764574/article/details/125757595)
+
+[知乎 TextCNN 文本分类](https://zhuanlan.zhihu.com/p/641806406)
 
 # QQ交流群
 ![](./img/皓悦编程记-交流群10群聊二维码.png)
