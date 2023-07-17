@@ -12,11 +12,9 @@ pip install -r requirement.txt
 # 项目目录：
 TextCNN         
     |-- data                 数据集   
-    |-- img                  相关图片
-    |-- logs                 训练日志               
+    |-- img                  相关图片            
     |-- model                保存的模型               
-    |-- config.py            配置文件                   
-    |-- log.py               日志文件                 
+    |-- config.py            配置文件                                 
     |-- main.py              主函数                      
     |-- model.py             模型文件                     
     |-- predict.py           预测文件                         
