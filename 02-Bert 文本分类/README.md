@@ -83,5 +83,5 @@ parser.add_argument("--max_len", type=int, default=38)
 
 # QQ交流群
 
-![bert 模型结构](img/QQ群.jpg)   
+![QQ群](img/QQ群.jpg)   
 
