@@ -88,4 +88,4 @@ parser.add_argument("--max_len", type=int, default=38)
 
 # QQ交流群
 
-![](./img/皓悦编程记-交流群10群聊二维码.png)
+![QQ群](img/QQ群.jpg)   
