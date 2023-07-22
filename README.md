@@ -6,3 +6,5 @@
 [01-TextCNN 文本分类](./01-TextCNN%20文本分类)  
 
 [02-Bert 文本分类](./02-Bert%20文本分类) 
+
+[03-Bert-TextCNN 文本分类](./03-Bert-TextCNN%20文本分类)
