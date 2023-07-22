@@ -38,5 +38,5 @@ Word2Vec
 [知乎 Word2Vec 训练字&词向量](https://zhuanlan.zhihu.com/p/642943733)
 
 # QQ交流群
-![](./img/皓悦编程记-交流群10群聊二维码.png)
+![QQ群](img/QQ群.jpg)   
 
