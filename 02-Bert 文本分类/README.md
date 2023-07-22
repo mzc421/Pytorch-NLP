@@ -82,5 +82,5 @@ parser.add_argument("--max_len", type=int, default=38)
 [知乎 Bert 文本分类](https://zhuanlan.zhihu.com/p/641995484)
 
 # QQ交流群
-![](./img/皓悦编程记-交流群10群聊二维码.png)
+![](03-Bert-TextCNN 文本分类/img/皓悦编程记-交流群10群聊二维码.png)
 
