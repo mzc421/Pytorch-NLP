@@ -1,0 +1,39 @@
+# -*- coding:utf-8 -*-
+# @author: 木子川
+# @Email:  m21z50c71@163.com
+# @QQ交流群：830200766
+# @QQ个人：2463739729
+
+from model import BiLSTM_CRF
+import pickle as pkl
+import torch
+from config import parsers
+
+
+def predict():
+    global model, device, word_2_index, tag_2_index
+    index_2_tag = [i for i in tag_2_index]
+    while True:
+        text = input("请输入：")
+        text_index = [[word_2_index.get(i, word_2_index["<UNK>"]) for i in text]]
+
+        text_index = torch.tensor(text_index, dtype=torch.int64, device=device)
+        _, pre_tag = model.forward(text_index)
+        pre = [index_2_tag[i] for i in pre_tag]
+        print([f'{w}_{s}' for w, s in zip(text, pre)])
+
+
+if __name__ == "__main__":
+    args = parsers()
+    device = "cuda:0" if torch.cuda.is_available() else "cpu"
+
+    dataset = pkl.load(open(args.data_pkl, "rb"))
+    word_2_index, tag_2_index = dataset[0], dataset[1]
+
+    model = BiLSTM_CRF(len(word_2_index), tag_2_index, args.embedding_dim, args.hidden_dim).to(device)
+    model.load_state_dict(torch.load(args.save_model_best))
+    model.eval()
+
+    predict()
+
+# 李某某，男，2012年4月出生，本科学历，工科学士，毕业于电子科技大学。
