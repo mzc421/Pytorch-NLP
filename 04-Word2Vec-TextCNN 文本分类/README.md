@@ -61,11 +61,6 @@ text_id = torch.tensor(wordEmbedding).unsqueeze(dim=0)
 # 模型预测
 `python predict.py`
 
-# 博客地址
-[CSDN TextCNN 文本分类](https://blog.csdn.net/qq_48764574/article/details/125757595)
-
-[知乎 TextCNN 文本分类](https://zhuanlan.zhihu.com/p/641806406)
-
 # QQ交流群
 ![QQ群](img/QQ群.jpg)   
 
