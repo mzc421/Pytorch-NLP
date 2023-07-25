@@ -11,7 +11,7 @@ pip install -r requirement.txt
 
 # 项目目录：
 ```
-TextCNN         
+Word2Vec-TextCNN         
     |-- data                 数据集   
     |-- img                  存放相关图片
     |-- model                保存的模型               
