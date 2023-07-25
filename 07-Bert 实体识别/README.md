@@ -11,7 +11,7 @@ pip install -r requirement.txt
 
 # 项目目录：
 ```
-Bert 实体识别
+Bert
     |-- bert-base-chinese    bert 中文预训练模型     
     |-- data                 数据集  
     |-- img                  存放模型相关图片              
