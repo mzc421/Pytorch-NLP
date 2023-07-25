@@ -10,6 +10,7 @@ pip install -r requirement.txt
 ```
 
 # 项目目录：
+```
 Bert        
     |-- bert-base-chinese    bert 中文预训练模型            
     |-- data                 数据集   
@@ -22,6 +23,7 @@ Bert
     |-- requests.txt         需要的安装包                
     |-- test.py              测试文件              
     |-- utils.py             数据处理文件
+```
 
 # Bert 模型结构与文本分类模型结构
 ![bert 模型结构](img/bert%20模型结构.jpg)   
