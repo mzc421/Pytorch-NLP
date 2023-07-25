@@ -37,9 +37,9 @@ Bi-LSTM-CRF
 `python predict.py`
 
 # 博客地址
-[CSDN Bert+TextCNN 文本分类](https://blog.csdn.net/qq_48764574/article/details/126323731)
+[CSDN Bi-LSTM-CRF 实体识别](https://blog.csdn.net/qq_48764574/article/details/126323731)
 
-[知乎 Bert+TextCNN 文本分类](https://zhuanlan.zhihu.com/p/642209326)
+[知乎 Bi-LSTM-CRF 实体识别](https://zhuanlan.zhihu.com/p/645620277)
 
 # QQ交流群
 ![QQ群](img/QQ群.jpg)
