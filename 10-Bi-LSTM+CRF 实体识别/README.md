@@ -42,5 +42,5 @@ Bi-LSTM-CRF
 [知乎 Bert+TextCNN 文本分类](https://zhuanlan.zhihu.com/p/642209326)
 
 # QQ交流群
-![QQ群](img/QQ群.jpg)   
+![QQ群](img/QQ群.jpg)
 
