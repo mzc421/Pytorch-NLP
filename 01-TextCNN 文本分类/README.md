@@ -10,6 +10,7 @@ pip install -r requirement.txt
 ```
 
 # 项目目录：
+```
 TextCNN         
     |-- data                 数据集   
     |-- img                  相关图片            
@@ -22,6 +23,7 @@ TextCNN
     |-- test.py              测试文件        
     |-- TextCNN.pdf          TextCNN 的论文        
     |-- utils.py             数据处理文件        
+```
 
 # TextCNN 模型结构图
 ![TextCNN 论文中模型](img/模型原型图.jpg)
