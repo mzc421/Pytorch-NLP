@@ -1,5 +1,5 @@
 # 项目名称：
-使用 Bi-LSTM+CRF 模型来对进行实体识别
+使用 Bi-LSTM-CRF 模型来对进行实体识别
 
 # 项目环境：
 pytorch、python   
