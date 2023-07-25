@@ -20,7 +20,7 @@ TextCNN
     |-- predict.py           预测文件                         
     |-- requirement.txt      需要的安装包        
     |-- test.py              测试文件        
-    |-- TextCNN.pdf          TextCNN 的论文
+    |-- TextCNN.pdf          TextCNN 的论文        
     |-- utils.py             数据处理文件        
 
 # TextCNN 模型结构图
