@@ -37,7 +37,7 @@ Bi-LSTM-CRF
 `python predict.py`
 
 # 博客地址
-[CSDN Bi-LSTM-CRF 实体识别](https://blog.csdn.net/qq_48764574/article/details/126323731)
+[CSDN Bi-LSTM-CRF 实体识别](https://blog.csdn.net/qq_48764574/article/details/131609636)
 
 [知乎 Bi-LSTM-CRF 实体识别](https://zhuanlan.zhihu.com/p/645620277)
 
