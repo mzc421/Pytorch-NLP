@@ -66,4 +66,4 @@ parser.add_argument("--max_len", type=int, default=38)
 [知乎 TextCNN 文本分类](https://zhuanlan.zhihu.com/p/641806406)
 
 # QQ交流群
-![QQ群](img/QQ群.jpg)   
+![QQ群](img/QQ群.jpg)  
