@@ -22,3 +22,5 @@
 [09-BiLSTM 实体识别](./09-BiLSTM%20实体识别)  
 
 [10-Bi-LSTM+CRF 实体识别](./10-Bi-LSTM+CRF%20实体识别)
+
+[11-Bert+CRF 三元组识别](./11-Bert+CRF%20三元组识别)
