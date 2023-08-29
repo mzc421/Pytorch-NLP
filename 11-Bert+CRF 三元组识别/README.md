@@ -52,6 +52,12 @@ BiLSTM
 # 模型预测
 `python predict.py`
 
+# 博客地址
+
+[CSDN Bert_CRF 三元组识别](https://blog.csdn.net/qq_48764574/article/details/132344244)
+
+[知乎 Bert_CRF 三元组识别](https://zhuanlan.zhihu.com/p/651639890)
+
 # 微信交流群
 我们有一个微信交流群，大家如果有需要，可以加入我们，一起进行学习。关注公众号后会有一个私人微信，添加微信，备注进群，就可以拉你进群，进行学习。
 
