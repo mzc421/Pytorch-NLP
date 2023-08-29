@@ -66,4 +66,6 @@ parser.add_argument("--max_len", type=int, default=38)
 [知乎 TextCNN 文本分类](https://zhuanlan.zhihu.com/p/641806406)
 
 # QQ交流群
-![QQ群](img/QQ群.jpg)  
+我们有一个微信交流群，大家如果有需要，可以加入我们，一起进行学习。关注公众号后会有一个私人微信，添加微信，备注进群，就可以拉你进群，进行学习。
+
+![公众号](img/公众号.jpg)   
