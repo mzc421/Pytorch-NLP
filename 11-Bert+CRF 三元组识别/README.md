@@ -13,7 +13,7 @@ pip install -r requirement.txt
 
 # 项目目录：
 ```
-BiLSTM
+Bert+CRF
     |--bert-base-chinese             bert模型权重文件
     |--data                          数据
     |--img                           存放模型相关图片 
