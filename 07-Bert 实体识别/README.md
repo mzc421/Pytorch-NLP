@@ -55,5 +55,7 @@ pooler_output：在通过用于辅助预训练任务的层进行进一步处理�
 相当于 `last_hidden_state` 用于字符级别，一句文本里面有`sequence_length`个字，每个字用`hidden_size`的一部分表示；
 `pooler_output` 用于篇章级别（分类），一句文本用`hidden_size`表示
 
-# QQ交流群
-![QQ群](img/QQ群.jpg)   
+# 微信交流群
+我们有一个微信交流群，大家如果有需要，可以加入我们，一起进行学习。关注公众号后会有一个私人微信，添加微信，备注进群，就可以拉你进群，进行学习。
+
+![公众号](img/公众号.jpg)   
