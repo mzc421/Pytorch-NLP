@@ -19,7 +19,7 @@
 
 [08-LSTM 实体识别](./08-LSTM%20实体识别)  
 
-[09-BiLSTM 实体识别](./09-BiLSTM%20实体识别)  
+[09-Bi-LSTM 实体识别](./09-Bi-LSTM%20实体识别)  
 
 [10-Bi-LSTM+CRF 实体识别](./10-Bi-LSTM+CRF%20实体识别)
 
