@@ -28,8 +28,7 @@ Bert
 ```
 
 # 模型介绍
-在实体识别中：使用了Bert模型，CRF模型
-在关系识别中：使用了Bert模型的输出与实体掩码，进行一系列变化，得到关系
+使用了Bert模型来判断文本中实体与实体的关系
 
 # 项目数据集
 [数据集](https://github.com/buppt//raw/master/data/people-relation/train.txt)
