@@ -29,6 +29,7 @@ Bert
 
 # 模型介绍
 使用了Bert模型来判断文本中实体与实体的关系
+关于Bert模型的介绍，可以看[02-Bert文本分类/README.md](../02-Bert%20文本分类/README.md)
 
 # 项目数据集
 [数据集](https://github.com/buppt//raw/master/data/people-relation/train.txt)
