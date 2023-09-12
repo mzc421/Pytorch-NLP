@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # @author: 木子川
-# @Data:   2022/7/30
 # @Email:  m21z50c71@163.com
+# @VX：fylaicai
 
 import torch
 import torch.nn as nn
