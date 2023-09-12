@@ -1,8 +1,7 @@
 # -*- coding:utf-8 -*-
 # @author: 木子川
 # @Email:  m21z50c71@163.com
-# @VX：fylaicai(回复消息快)
-# @QQ：2463739729
+# @VX：fylaicai
 
 import re
 import os
