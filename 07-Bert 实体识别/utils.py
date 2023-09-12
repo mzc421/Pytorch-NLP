@@ -1,8 +1,7 @@
 # -*- coding:utf-8 -*-
 # @author: 木子川
 # @Email:  m21z50c71@163.com
-# @QQ交流群：830200766
-# @QQ个人：2463739729
+# @VX：fylaicai
 
 import pickle as pkl
 import numpy as np
