@@ -25,7 +25,7 @@
 
 [11-Bi-LSTM+Attention关系识别](./11-Bi-LSTM+Attention%20关系识别)
 
-[12-Bert 关系识别](./11-Bert%20关系识别)
+[12-Bert 关系识别](./12-Bert%20关系识别)
 
-[13-Bert+CRF 三元组识别](./10-Bert+CRF%20三元组识别)
+[13-Bert+CRF 三元组识别](./13-Bert+CRF%20三元组识别)
 
