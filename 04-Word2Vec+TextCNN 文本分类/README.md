@@ -30,11 +30,11 @@ Word2Vec-TextCNN
 其类别为 finance、realty、stocks、education、science、society、politics、sports、game、entertainment 这十个类别。
 
 # 模型介绍
-详细内容请看[TextCNN 文本分类介绍](../01-TextCNN%20文本分类/README.md)
+详细内容请看：[TextCNN 文本分类介绍](../01-TextCNN%20文本分类/README.md)
 
 # 修改部分
 相对于原始 TextCNN 模型的 Emdedding 层，此项目用了 Word2Vec 来代替。
-关于 Word2Vec 训练得到词向量，可以看[Word2Vec 字&词向量](../00-Word2Vec%20字&词向量)
+关于 Word2Vec 训练得到词向量，可以看：[Word2Vec 字&词向量](../00-Word2Vec%20字&词向量)
 
 ```
 # 添加 "<pad>" 和 "<UNK>"
