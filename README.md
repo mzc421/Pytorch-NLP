@@ -7,7 +7,7 @@
 
 [02-Bert 文本分类](./02-Bert%20文本分类)  
 
-[03-Bert+TextCNN 文本分类](./02-Bert+TextCNN%20文本分类)  
+[03-Bert+TextCNN 文本分类](./03-Bert+TextCNN%20文本分类)  
 
 [04-Word2Vec+TextCNN 文本分类](./04-Word2Vec+TextCNN%20文本分类)  
 
