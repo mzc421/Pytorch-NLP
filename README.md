@@ -7,9 +7,9 @@
 
 [02-Bert 文本分类](./02-Bert%20文本分类)  
 
-[03-Bert 文本分类](./02-Bert%20文本分类)  
+[03-Bert+TextCNN 文本分类](./02-Bert+TextCNN%20文本分类)  
 
-[04-Word2Vec-TextCNN 文本分类](./04-Word2Vec-TextCNN%20文本分类)  
+[04-Word2Vec+TextCNN 文本分类](./04-Word2Vec+TextCNN%20文本分类)  
 
 [05-命名实体标注方法](./05-命名实体标注方法)  
 
@@ -23,8 +23,9 @@
 
 [10-Bi-LSTM+CRF 实体识别](./10-Bi-LSTM+CRF%20实体识别)
 
-[11-Bert+CRF 三元组识别](./11-Bert+CRF%20三元组识别)
+[11-Bi-LSTM+Attention关系识别](./11-Bi-LSTM+Attention%20关系识别)
 
-[12-Bert 关系识别](./12-Bert%20关系识别)
+[12-Bert 关系识别](./11-Bert%20关系识别)
 
+[13-Bert+CRF 三元组识别](./10-Bert+CRF%20三元组识别)
 
