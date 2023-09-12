@@ -1,9 +1,7 @@
 # -*- coding:utf-8 -*-
 # @author: 木子川
 # @Email:  m21z50c71@163.com
-# @QQ交流群：830200766
-# @QQ个人：2463739729
-
+# @VX：fylaicai
 
 from config import parsers
 # transformer库是一个把各种预训练模型集成在一起的库，导入之后，你就可以选择性的使用自己想用的模型，这里使用的BERT模型。
