@@ -83,6 +83,8 @@ parser.add_argument("--max_len", type=int, default=38)
 
 [知乎 Bert 文本分类](https://zhuanlan.zhihu.com/p/641995484)
 
+[微信公众号 Bert 文本分类](https://mp.weixin.qq.com/s?__biz=MzkxOTUzMDE0Nw==&mid=2247485015&idx=1&sn=7c9d28ad97cd075edda39c873f55c43a&chksm=c1a1f99bf6d6708de21ec6a636623378e4bed344a3de075033b555215b2d256f95443c79e00e&token=339959978&lang=zh_CN#rd)
+
 # 微信交流群
 我们有一个微信交流群，大家如果有需要，可以加入我们，一起进行学习。关注公众号后会有一个私人微信，添加微信，备注进群，就可以拉你进群，进行学习。
 
