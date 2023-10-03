@@ -38,6 +38,8 @@ Word2Vec
 
 [知乎 Word2Vec 训练字&词向量](https://zhuanlan.zhihu.com/p/642943733)
 
+[微信公众号 Word2Vec 训练字&词向量]([https://zhuanlan.zhihu.com/p/642943733](https://mp.weixin.qq.com/s?__biz=MzkxOTUzMDE0Nw==&mid=2247485314&idx=1&sn=c13a4d87fb125e0fd785e06890cb9d5a&chksm=c1a1f84ef6d67158ff0e8592e773a92089ccec6d508dce92e082c57c2d5c07d7870a9a4fec9b&scene=178&cur_album_id=3109690569678979074#rd)https://mp.weixin.qq.com/s?__biz=MzkxOTUzMDE0Nw==&mid=2247485314&idx=1&sn=c13a4d87fb125e0fd785e06890cb9d5a&chksm=c1a1f84ef6d67158ff0e8592e773a92089ccec6d508dce92e082c57c2d5c07d7870a9a4fec9b&scene=178&cur_album_id=3109690569678979074#rd)
+
 # 深度学习交流群
 我们有一个微信交流群，大家如果有需要，可以加入我们，一起进行学习。关注公众号后会有一个私人微信，添加微信，备注进群，就可以拉你进群，进行学习。
 
