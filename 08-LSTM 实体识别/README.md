@@ -52,6 +52,14 @@ LSTM(Long_short_term_memory),使用LSTM模型可以更好的捕捉到较长距�
 # 模型预测
 `python predict.py`
 
+# 博客地址
+
+[CSDN LSTM 文本实体识别](https://blog.csdn.net/qq_48764574/article/details/126070478)
+
+[知乎 LSTM 文本实体识别](https://zhuanlan.zhihu.com/p/644160458)
+
+[微信公众号 LSTM 文本实体识别](https://mp.weixin.qq.com/s?__biz=MzkxOTUzMDE0Nw==&mid=2247485314&idx=2&sn=7cb65d250332dcb0c8112bfb0e5167a2&chksm=c1a1f84ef6d67158c5ea20d659338a7162f3f2b92410ef6542fce7b69176bcd0c4645fb73fcb&scene=178&cur_album_id=3109690569678979074#rd)
+
 # 微信交流群
 我们有一个微信交流群，大家如果有需要，可以加入我们，一起进行学习。关注公众号后会有一个私人微信，添加微信，备注进群，就可以拉你进群，进行学习。
 
