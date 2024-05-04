@@ -20,7 +20,7 @@ def load_model(model_path, class_num):
 
 
 def text_class_name(texts, pred, index_label):
-    result = torch.argmax(pred, dim=1)
+    result = torch.argmax(pred[0], dim=1)
     result = result.cpu().numpy().tolist()[0]
 
     pred_label = [index_label[i] for i in result]
